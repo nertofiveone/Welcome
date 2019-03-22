@@ -21,3 +21,5 @@
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
 __Be sure the information in your README file is kept up to date for the duration of the Sprint.__
+
+## We've also included resources in the [Wiki](https://github.com/SFDO-Sprint-2019-Amsterdam/Welcome/wiki) to help you along the way!

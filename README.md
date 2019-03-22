@@ -5,6 +5,10 @@
 ### Step 1: Create your project Repository.
 > A repository contains all project files, including the revision history.
 
+1. Navigate to https://github.com/SFDO-Sprint-2019-Amsterdam (right click this URL and open a new page)
+2. Click the New button (Green button)
+3. From the Create a new repository page fill in the requested information.
+
 > __Here is an Example:__<br>
 > Repository name: Outbound Funds<br>
 > Description: The Outbound Funds project ...<br>

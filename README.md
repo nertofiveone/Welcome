@@ -37,6 +37,8 @@ __Be sure the information in your README file is kept up to date for the duratio
 > Created a Documentation directory for all Project Documentation
 5. Ensure Commit directly to the master branch = true
 6. Click Commit new file.
+
+__Be sure the information in your README file is kept up to date for the duration of the Sprint.__
 ***
 
 ## We've also included resources in the [Wiki](https://github.com/SFDO-Sprint-2019-Amsterdam/Welcome/wiki) to help you along the way!

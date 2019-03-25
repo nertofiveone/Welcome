@@ -1,3 +1,5 @@
+
+
 # Welcome Sprinters!
 
 ## Complete these 3 steps to get your project going on Day 1!
@@ -33,7 +35,8 @@ After you copy and paste the template into your Project's README.md file be sure
 
 __Note:__ When editing your README.md file (or any file that ends with .md) you will be using Markdown language. Be sure to access the Mastering Markdown Github guide to help you understand the different formatting options that are available: https://guides.github.com/features/mastering-markdown/
 
-__Be sure the information in your README file is kept up to date for the duration of the Sprint.__
+__Your Project's README file must be kept up to date for the duration of the Sprint. Why?__ 
+Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project and supports collaboration from the open source community.
 ***
 
 ### Step 3: Create a Directory folder in your project Repository to house any documentation generated during the Community Day event.
@@ -48,8 +51,6 @@ __Be sure the information in your README file is kept up to date for the duratio
 > Created a Documentation directory for all Project Documentation
 5. Ensure Commit directly to the master branch = true
 6. Click Commit new file
-
-__Be sure the information in your README file is kept up to date for the duration of the Sprint.__
 ***
 
 ## We've also included resources in the [Wiki](https://github.com/SFDO-Sprint-2019-Amsterdam/Welcome/wiki) to help you along the way!

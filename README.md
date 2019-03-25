@@ -31,7 +31,7 @@ After you copy and paste the template into your Project's README.md file be sure
 2. Ensure Commit directly to the master branch = true
 3. Click Commit new file.
 
-__Note:__ When editing formatting in your README.md file you will be using Markdown language. You can access the Mastering Markdown Github guide here: https://guides.github.com/features/mastering-markdown/
+__Note:__ When editing your README.md file (or any file that ends with .md) you will be using Markdown language. Be sure to access the Mastering Markdown Github guide to help you understand the different formatting options that are available: https://guides.github.com/features/mastering-markdown/
 
 __Be sure the information in your README file is kept up to date for the duration of the Sprint.__
 ***

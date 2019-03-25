@@ -22,6 +22,17 @@
 ### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Amsterdam/Welcome/wiki/Project-README-template)
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
+After you copy and paste the template into your Project's README.md file be sure to do the following:
+
+1. Add a message in the Commit changes a the bottom of the README.md file
+> __Here is an Example:__<br>
+> Update README.md <br>
+> Updated the README.md file using the Project README template.
+2. Ensure Commit directly to the master branch = true
+3. Click Commit new file.
+
+__Note:__ When editing formatting in your README.md file you will be using Markdown language. You can access the Mastering Markdown Github guide here: https://guides.github.com/features/mastering-markdown/
+
 __Be sure the information in your README file is kept up to date for the duration of the Sprint.__
 ***
 

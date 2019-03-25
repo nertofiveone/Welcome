@@ -10,12 +10,12 @@
 3. From the Create a new repository page fill in the requested information.
 
 > __Here is an Example:__<br>
-> Repository name: Admin Soft Skills<br>
-> Description: Salesforce Administrators have the technical skill set to perform the functions of an administrator but many entering the Salesforce.org community lack the soft skills set required to be a successful and impactful administrator. This skills gap within the administrator community is bad for nonprofits, higher ed, partners and the community at large. <br>
-> Public Repo = true<br>
-> Initialize this repository with a README = true<br>
-> Add .gitignore: None (leave this as is)
-> Add a license = BSD 3-Clause "New" or "Revised" License <br>
+> __Repository name:__ Admin Soft Skills<br>
+> __Description:__ Salesforce Administrators have the technical skill set to perform the functions of an administrator but many entering the Salesforce.org community lack the soft skills set required to be a successful and impactful administrator. This skills gap within the administrator community is bad for nonprofits, higher ed, partners and the community at large. <br>
+> __Public Repo__ = true<br>
+> __Initialize this repository with a README__ = true<br>
+> __Add .gitignore: None__ (leave this as is)
+> __Add a license__ = BSD 3-Clause "New" or "Revised" License <br>
 > Click the Create Repository button<br>
 ***
 

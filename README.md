@@ -1,6 +1,6 @@
 # Welcome Sprinters!
 
-## Complete these 2 steps to get your project going on Day 1!
+## Complete these 3 steps to get your project going on Day 1!
 
 ### Step 1: Create your project Repository.
 > A project repository is your Sprint projects' home. It's a place where all of your project files (documentation, user-stories, code, etc.) will live so that others in the open source community (including Salesforce.org) can have open access to all your work in order to track progress. A repository has the added benefit of allowing future contributors to continue the work started at this Sprint.

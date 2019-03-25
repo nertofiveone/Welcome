@@ -24,7 +24,7 @@
 
 After you copy and paste the template into your Project's README.md file be sure to do the following:
 
-1. Add a message in the Commit changes a the bottom of the README.md file
+1. Add a message in the Commit changes section at the bottom of the README.md file
 > __Here is an Example:__<br>
 > Update README.md <br>
 > Updated the README.md file using the Project README template.

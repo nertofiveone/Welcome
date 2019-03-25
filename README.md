@@ -7,7 +7,7 @@
 
 1. Navigate to https://github.com/SFDO-Sprint-2019-Amsterdam (right click this URL and open a new page)
 2. Click the New button (Green button)
-3. From the Create a new repository page fill in the requested information.
+3. From the Create a new repository page fill in the requested information
 
 > __Here is an Example:__<br><br>
 > __Repository name:__ Admin Soft Skills<br>
@@ -27,9 +27,9 @@ After you copy and paste the template into your Project's README.md file be sure
 1. Add a message in the *Commit changes* section at the bottom of the README.md file
 > __Here is an Example:__<br>
 > Update README.md <br>
-> Updated the README.md file using the Project README template.
+> Updated the README.md file using the Project README template
 2. Ensure Commit directly to the master branch = true
-3. Click Commit new file.
+3. Click Commit new file
 
 __Note:__ When editing your README.md file (or any file that ends with .md) you will be using Markdown language. Be sure to access the Mastering Markdown Github guide to help you understand the different formatting options that are available: https://guides.github.com/features/mastering-markdown/
 
@@ -38,16 +38,16 @@ __Be sure the information in your README file is kept up to date for the duratio
 
 ### Step 3: Create a Directory folder in your project Repository to house any documentation generated during the Community Day event.
 1. From your Project's README.md file click on Create new file
-2. Type in the name of the Directory you want to create follwed by a slash (/) follwed by the name of the file that will identify what types of information will be housed here.
+2. Type in the name of the Directory you want to create follwed by a slash (/) follwed by the name of the file that will identify what types of information will be housed here
 > __Here is an Example:__<br>
 > Documentation/Project Documentation
 3. In the Edit new file tab add the following message: This directory is where all project documentation will be housed.
-4. Add a message in the *Commit new file* section at the bottom of the file.
+4. Add a message in the *Commit new file* section at the bottom of the file
 > __Here is an Example:__<br>
 > Documentation Directory <br>
 > Created a Documentation directory for all Project Documentation
 5. Ensure Commit directly to the master branch = true
-6. Click Commit new file.
+6. Click Commit new file
 
 __Be sure the information in your README file is kept up to date for the duration of the Sprint.__
 ***

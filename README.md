@@ -11,7 +11,7 @@
 
 > __Here is an Example:__<br>
 > Repository name: Outbound Funds<br>
-> Description: The Outbound Funds project ...<br>
+> Description: The Outbound Funds project focuses on ...<br>
 > Public Repo = true<br>
 > Initialize this repository with a README = true<br>
 > Add a license = BSD 3-Clause "New" or "Revised" License <br>

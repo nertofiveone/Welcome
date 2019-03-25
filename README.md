@@ -9,7 +9,7 @@
 2. Click the New button (Green button)
 3. From the Create a new repository page fill in the requested information.
 
-> __Here is an Example:__<br>
+> __Here is an Example:__<br><br>
 > __Repository name:__ Admin Soft Skills<br>
 > __Description:__ Salesforce Administrators have the technical skill set to perform the functions of an administrator but many entering the Salesforce.org community lack the soft skills set required to be a successful and impactful administrator. This skills gap within the administrator community is bad for nonprofits, higher ed, partners and the community at large. <br>
 > __Public Repo__ = true<br>

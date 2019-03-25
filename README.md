@@ -35,7 +35,7 @@ After you copy and paste the template into your Project's README.md file be sure
 
 __Note:__ When editing your README.md file (or any file that ends with .md) you will be using Markdown language. Be sure to access the Mastering Markdown Github guide to help you understand the different formatting options that are available: https://guides.github.com/features/mastering-markdown/
 
-__Your Project's README file must be kept up to date. Why?__ 
+__Your Project's README file must be kept up to date.__ 
 Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports collaboration from the open source community.
 ***
 
